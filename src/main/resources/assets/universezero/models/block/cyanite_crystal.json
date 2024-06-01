@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "universezero:block/cyanite_crystal"
+  }
+}
